@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFest-Project</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="password">Password</string>
+    <string name="estilo_musica">Estilo muscial</string>
+    <string name="precio">Precio</string>
+    <string name="precio_desde">Desde</string>
+    <string name="precio_hasta">Hasta</string>
+</resources>
